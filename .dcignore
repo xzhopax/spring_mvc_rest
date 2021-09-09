@@ -222,7 +222,7 @@ _book
 
 # LemonStand
 /config/*
-/controllers/*
+/com.dampcave.mvc.rest.controllers/*
 /init/*
 /logs/*
 /phproad/*
